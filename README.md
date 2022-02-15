@@ -1,9 +1,9 @@
 # Renpy Stranded Island - Game
-## Contributers
+## Credits
 Chapter1 =  [Shaurya](https://github.com/DHASSWAGGER) <br>
 Chapter2 = [Luc](https://github.com/luc-frenkie-dj) <br>
 Chapter3 = [Parsa](https://github.com/ParsaThsi) <br>
-Extras = [Harel](https://github.com/poo-goblin) <br>
+Character UI = [Harel](https://github.com/poo-goblin) <br>
 
 ## Instalation For Stranded_Island
 1. Download the SDK from the renpy website: https://www.renpy.org/latest.html
