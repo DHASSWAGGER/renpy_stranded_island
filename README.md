@@ -9,7 +9,7 @@ Extras = [Harel](https://github.com/poo-goblin) <br>
 1. Download the SDK from the renpy website: https://www.renpy.org/latest.html
 2. Clone the git repository inside the renpy SDK using:
 ```
-git clone https://github.com/luc-frenkie-dj/renpy_stranded_island.git
+git clone https://github.com/DHASSWAGGER/renpy_stranded_island.git
 ```
 3. Run the renpy executable in the SDK and enjoy!
 
