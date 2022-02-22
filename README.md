@@ -1,5 +1,5 @@
 # Renpy Stranded Island - Game
-## Credits
+## Contributions
 Chapter1 =  [Shaurya](https://github.com/DHASSWAGGER) <br>
 Chapter2 = [Luc](https://github.com/luc-frenkie-dj) <br>
 Chapter3 = [Parsa](https://github.com/ParsaThsi) <br>
